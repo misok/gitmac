@@ -1,0 +1,8 @@
+class headfirstex{
+    public static void main(String[] args){
+        x = int(24.6);
+        System.out.print(x);
+
+    }
+
+}
